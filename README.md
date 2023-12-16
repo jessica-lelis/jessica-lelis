@@ -9,10 +9,10 @@ Meu nome é Jéssica Lelis, sou formada em Design Gráfico e atualmente trabalho
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-lelis&layout=donut&&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-lelis&layout=donut&&theme=calm)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessica-lelis&theme=midnight-purple&show_icons=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessica-lelis&theme=calm&show_icons=true&rank_icon=github)
 
 &nbsp;
 ## 📚 Educação:
